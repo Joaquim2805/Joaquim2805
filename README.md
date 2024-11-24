@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 I'm currently pursuing a **Master of Applied Sciences** at **ÉTS Montréal** 🇨🇦 and a **Master of Engineering** at **UTBM** in France 🇫🇷.<br>
-My main interests are **optimization and operations research**, **machine learning and deep learning**, and **quantum computing**.  
+My main interests are **optimization and operations research**, **deep learning**, and **quantum computing**.  
 I would love to pursue a **PhD** in one of these fields, so don't hesitate to contact me!
 
 
