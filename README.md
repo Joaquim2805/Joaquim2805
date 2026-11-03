@@ -1,7 +1,9 @@
 # 💫 About Me:
-🎓 I'm currently pursuing a **Master of Applied Sciences** at **ÉTS Montréal** 🇨🇦 and a **Master of Engineering** at **UTBM** in France 🇫🇷.<br>
-My main interests are **optimization and operations research**, **deep learning**, and **quantum computing**.  
-I would love to pursue a **PhD** in one of these fields, so don't hesitate to contact me!
+🎓 I'm a **PhD student** at the startup **Percevoir** and the **Institut de Mathématiques de Bourgogne** (Dijon, France 🇫🇷), working on **nonlinear optimization** and **design of experiments**.<br>
+📜 I hold a **Master of Applied Sciences** from **ÉTS Montréal** 🇨🇦, with research in **combinatorial and stochastic optimization** (GERAD / CIRRELT), and a **Master of Engineering** in Computer Science (data science & machine learning) from **UTBM** 🇫🇷.<br>
+🔬 My main interests are **optimization** (nonlinear, combinatorial, stochastic), **probability** and **statistics**.<br>
+🛠️ I mostly work with **Python**.<br>
+📫 Feel free to reach out!
 
 
 
